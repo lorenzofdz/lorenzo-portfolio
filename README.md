@@ -1,4 +1,5 @@
 ## Proyectos
+
 ---
 
 ### Análisis del Mercado de Videojuegos
@@ -26,6 +27,7 @@ Basé mi proyecto en el análisis de un extenso conjunto de datos de videojuegos
   <img src="https://img.shields.io/badge/NumPy-4A4A4A?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-6A6A6A?style=for-the-badge&logo=matplotlib&logoColor=white" />
 </div>
+
 
 **Visualizaciones:**
 
@@ -65,6 +67,7 @@ Para utilizar la aplicación, simplemente seleccione la casilla de verificación
   <img src="https://img.shields.io/badge/Pandas-5A5A5A?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly_Express-6A6A6A?style=for-the-badge&logo=plotly&logoColor=white" />
 </div>
+
 
 **Liga de la Web App:** [Acceder a la aplicación](https://proyecto-sprint-4-vlkw.onrender.com/)
 
