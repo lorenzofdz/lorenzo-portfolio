@@ -29,7 +29,6 @@ Basé mi proyecto en el análisis de un extenso conjunto de datos de videojuegos
 </div>
 
 **Visualizaciones:**
-
 A continuación, presento algunas de las visualizaciones generadas durante el análisis del mercado de videojuegos:
 
    ![Distribución de Ventas Globales por Género](https://github.com/user-attachments/assets/bd7df0c4-88e4-4fdf-8f60-17ee287fa48b)
