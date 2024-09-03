@@ -19,11 +19,13 @@ Basé mi proyecto en el análisis de un extenso conjunto de datos de videojuegos
 - Observé que la plataforma de juego influye en la calificación promedio que los usuarios dan a los juegos, mientras que no se evidenció una diferencia significativa en las calificaciones entre los géneros de Acción y Deportes.
 - Descubrí que los juegos clasificados como "E" (para todos los públicos) son los más exitosos en términos de ventas en todas las regiones, destacando la importancia de la accesibilidad del contenido.
 
-**Habilidades Técnicas:**  
-- Python
-- Pandas
-- NumPy
-- Matplotlib
+**Lenguajes y herramientas principales:**  
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/Python-4A4A4A?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-5A5A5A?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-4A4A4A?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-6A6A6A?style=for-the-badge&logo=matplotlib&logoColor=white" />
+</div>
 
 **Visualizaciones:**
 
@@ -57,10 +59,12 @@ Desarrollé una aplicación web con Streamlit, diseñada para facilitar la visua
 **Cómo Utilizar:**  
 Para utilizar la aplicación, simplemente seleccione la casilla de verificación correspondiente a la visualización que desea explorar. La aplicación generará automáticamente el gráfico seleccionado basándose en los datos actuales del conjunto de datos de vehículos usados.
 
-**Habilidades Técnicas:**  
-- Streamlit
-- Pandas
-- Plotly Express
+**Lenguajes y herramientas principales:**  
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/Streamlit-4A4A4A?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-5A5A5A?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly_Express-6A6A6A?style=for-the-badge&logo=plotly&logoColor=white" />
+</div>
 
 **Liga de la Web App:** [Acceder a la aplicación](https://proyecto-sprint-4-vlkw.onrender.com/)
 
