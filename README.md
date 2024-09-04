@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="styles.css">
+
 ## Acerca de mí
 
 Me entusiasma abordar y resolver problemas complejos en el ámbito del análisis de datos, lo que me permite demostrar el impacto que esta disciplina puede tener en la optimización y el crecimiento empresarial. Para ello, empleo herramientas como Python, SQL y diversas técnicas de análisis de datos, transformando información en decisiones estratégicas que impulsan el éxito de las organizaciones.
