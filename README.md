@@ -83,6 +83,23 @@ Para utilizar la aplicación, simplemente seleccione la casilla de verificación
 
 ---
 
-- **Envíame un correo:** [lofernandez91@gmail.com](mailto:lofernandez91@gmail.com)
-- **Contáctame en LinkedIn:** [linkedin.com/in/lorenzofdz](https://www.linkedin.com/in/lorenzofdz)
-- **Explora mis proyectos en GitHub:** [github.com/lorenzofdz](https://github.com/lorenzofdz)
+## Tableau Dashboard
+
+A continuación, puedes ver uno de los dashboards que he desarrollado:
+
+<div style="width: 100%; height: 827px; overflow: hidden;">
+  <iframe 
+    src="https://public.tableau.com/views/Dashboard_Analisis_Tendencias/Dashboard1?:showVizHome=no&:embed=true" 
+    width="100%" 
+    height="100%" 
+    frameborder="0"
+    scrolling="no"
+    allowfullscreen="true">
+  </iframe>
+</div>
+
+---
+
+**Envíame un correo:** [lofernandez91@gmail.com](mailto:lofernandez91@gmail.com)
+**Contáctame en LinkedIn:** [linkedin.com/in/lorenzofdz](https://www.linkedin.com/in/lorenzofdz)
+**Explora mis proyectos en GitHub:** [github.com/lorenzofdz](https://github.com/lorenzofdz)
