@@ -83,19 +83,15 @@ Para utilizar la aplicación, simplemente seleccione la casilla de verificación
 
 ---
 
-## Tableau Dashboards
+### Tableau Dashboards
 
 A continuación, puedes ver uno de los dashboards que he desarrollado:
 
-<div style="width: 100%; max-width: 900px; height: 900px; margin: auto; overflow: hidden;">
-  <iframe 
-    src="https://public.tableau.com/views/Dashboard_Analisis_Tendencias/Dashboard1?:showVizHome=no&:embed=true" 
-    width="100%" 
-    height="600px" 
-    frameborder="0"
-    scrolling="yes"
-    allowfullscreen="true">
-  </iframe>
+<div style="text-align: center; margin-top: 20px;">
+  <a href="https://public.tableau.com/views/Dashboard_Analisis_Tendencias/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Tableau_Logo.png" alt="Ver Dashboard en Tableau" style="width: 150px; height: auto;" />
+  </a>
+  <p>Ver Dashboard de Análisis de Tendencias en Tableau</p>
 </div>
 
 ---
