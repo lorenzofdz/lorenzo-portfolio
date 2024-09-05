@@ -86,13 +86,12 @@ Para utilizar la aplicación, simplemente seleccione la casilla de verificación
 ### Tableau Dashboards
 
 A continuación, puedes ver uno de los dashboards que he desarrollado:
-
+    
 <div style="text-align: center; margin-top: 20px;">
   <a href="https://public.tableau.com/views/Dashboard_Analisis_Tendencias/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">
-    <img src="assets/img/tableaulogo.png" alt="Ver Dashboard en Tableau" style="width: 150px; height: auto;" />
+    <img src="assets/img/tableaulogo.png" alt="Ver Dashboard en Tableau" style="width: 300px; height: auto;" />
   </a>
 </div>
-
 
 ---
 
