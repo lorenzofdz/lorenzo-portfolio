@@ -4,3 +4,5 @@ description: ¡Hola! Soy Lorenzo Fernández, recientemente completé un bootcamp
 show_downloads: false
 theme: jekyll-theme-minimal
 include: [styles.css]
+include:
+  - assets/css/style.css
