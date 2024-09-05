@@ -87,7 +87,7 @@ Para utilizar la aplicación, simplemente seleccione la casilla de verificación
 
 A continuación, puedes ver uno de los dashboards que he desarrollado:
 
-<div style="width: 100%; max-width: 800px; height: 600px; margin: auto; overflow: hidden;">
+<div style="width: 100%; max-width: 900px; height: 600px; margin: auto; overflow: hidden;">
   <iframe 
     src="https://public.tableau.com/views/Dashboard_Analisis_Tendencias/Dashboard1?:showVizHome=no&:embed=true" 
     width="100%" 
