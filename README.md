@@ -6,7 +6,7 @@ Me entusiasma abordar y resolver problemas complejos en el ámbito del análisis
 
 Recientemente, completé un Bootcamp en Data Analytics en TripleTen, donde tuve la oportunidad de trabajar en proyectos reales que fortalecieron mi capacidad para extraer insights y desarrollar soluciones orientadas al negocio. Además, mis estudios en el MBA me han brindado una sólida comprensión de la estrategia empresarial, permitiéndome integrar el análisis de datos en la toma de decisiones corporativas de manera efectiva.
 
-[Descarga mi CV](https://github.com/user-attachments/files/16826343/GitHub_Lorenzo.Fernandez_CV.pdf)
+Puedes ver mi CV actualizado [aquí](https://mnt/data/Lorenzo_Fernandez_CV.pdf).
 
 ---
 
