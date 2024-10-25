@@ -2,11 +2,7 @@
 
 ## Acerca de mí
 
-Me entusiasma abordar y resolver problemas complejos en el ámbito del análisis de datos, lo que me permite demostrar el impacto que esta disciplina puede tener en la optimización y el crecimiento empresarial. Para ello, empleo herramientas como Python, SQL y diversas técnicas de análisis de datos, transformando información en decisiones estratégicas que impulsan el éxito de las organizaciones.
-
-Recientemente, completé un Bootcamp en Data Analytics en TripleTen, donde tuve la oportunidad de trabajar en proyectos reales que fortalecieron mi capacidad para extraer insights y desarrollar soluciones orientadas al negocio. Además, mis estudios en el MBA me han brindado una sólida comprensión de la estrategia empresarial, permitiéndome integrar el análisis de datos en la toma de decisiones corporativas de manera efectiva.
-
-[Descarga mi CV](https://github.com/user-attachments/files/17402384/Lorenzo_Fernandez_CV.pdf)
+Profesional con MBA y certificación en Análisis de Datos, apasionado por transformar datos en información accionable. Me especializo en toma de decisiones basada en datos, creación de dashboards y gestión de bases de datos utilizando Python, SQL y Tableau. Con experiencia en alinear estrategias de datos con objetivos empresariales, he impulsado mejoras medibles en el rendimiento, contribuyendo al crecimiento del negocio y a la eficiencia operativa.
 
 
 ---
