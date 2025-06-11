@@ -10,7 +10,7 @@ Profesional con MBA y certificación en Análisis de Datos, apasionado por trans
 
 ## Proyectos
 
-### Análisis de Tendencias en el Mercado de Videojuegos
+### Análisis de Tendencias en la Industria de Entretenimiento Digital
 
 **Descripción del Proyecto**  
 En este proyecto me enfoqué en el análisis del mercado de videojuegos con el objetivo de identificar patrones que determinan el éxito de los juegos en diferentes regiones y plataformas. A través del estudio de las preferencias de los usuarios, las ventas por región y el impacto de las clasificaciones ESRB, busqué proporcionar insights valiosos para desarrolladores y editores en la industria.
